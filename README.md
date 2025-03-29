@@ -6,7 +6,7 @@
 <h3 align="left">About</h3>
 <P align="justify" >Hi there!  I'm ASIF TA, a Front-End Developer and UI/UX Designer passionate about creating intuitive and visually appealing experiences. I have a solid foundation in HTML, CSS, and JavaScript and am constantly learning new technologies. I love blending design and development to build seamless, user-friendly interfaces. Open to collaboration—let’s create something amazing! </P>
 
-
+<img align="right" width="400" src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif">
 
 - 🌱 I’m currently learning **frontend development**
 
