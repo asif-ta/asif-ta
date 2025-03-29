@@ -1,8 +1,12 @@
 <h1 align="center">Hi , I'm ASIF TA</h1>
 <h3 align="center">A passionate frontend developer & UI/UX designer from India</h3>
-<h3 align="left">About</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif-ta&label=Profile%20views&color=0e75b6&style=flat" alt="asif-ta" /> </p>
+
+<h3 align="left">About</h3>
+<P align=""left>Hi there!  I'm [Your Name], a Front-End Developer and UI/UX Designer passionate about creating intuitive and visually appealing experiences. I have a solid foundation in HTML, CSS, and JavaScript and am constantly learning new technologies. I love blending design and development to build seamless, user-friendly interfaces. Open to collaboration—let’s create something amazing! </P>
+
+
 
 - 🌱 I’m currently learning **frontend development**
 
